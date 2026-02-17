@@ -1,2 +1,9 @@
 data/
 *.zip
+*.jpg
+classification/PetImages/
+*.db
+.ipynb_checkpoints/
+*.zip
+.DS_Store
+**/.DS_Store
